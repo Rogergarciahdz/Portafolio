@@ -1,0 +1,26 @@
+h1{
+    color: azure;
+    
+}
+
+body{
+   
+    
+     background-color: #34495e;
+ }
+
+.inicio{
+    background-image: url(/imagenes/image.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+    background-size: cover;
+
+}
+
+.card-text{
+    background-color: aquamarine;
+}
+
+li{
+    color: blue;
+}
